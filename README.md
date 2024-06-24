@@ -9,7 +9,7 @@ Tested with cordova-android >= 7.1.0
 
 Plugin based on https://github.com/eusilvio/cordova-plugin-sunmi-inner-printer
 
-#### Changelog 2021-02-11
+#### Changelog 2024-06-24
 
 
 1. Automatically add `"com.sunmi:sunmiui:latest.release"` into gradle.
