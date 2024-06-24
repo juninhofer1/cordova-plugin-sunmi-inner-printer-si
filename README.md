@@ -18,7 +18,7 @@ Plugin based on https://github.com/eusilvio/cordova-plugin-sunmi-inner-printer
 
 3. Updated the `AIDL` with `version 2.1`
 
-4. Add the `android:exported="true"` in `receiver` and `service` in the `manifest` with `version 2.1`
+4. Add the `android:exported="true"` in `receiver` and `service` in the `manifest`
 
 
 #### DOCS
