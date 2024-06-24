@@ -1,0 +1,24 @@
+{
+  "name": "cordova-plugin-sunmi-inner-printer-si",
+  "version": "1.0.0",
+  "description": "Cordova/Ionic Sunmi V2 Inner Printer",
+  "cordova": {
+    "id": "cordova-plugin-sunmi-inner-printer-si",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/juninhofer1/cordova-plugin-sunmi-inner-printer-si"
+  },
+  "author": "Wilson Fernandes",
+  "license": "MIT",
+  "engines": {
+    "cordovaDependencies": {
+      "7.1.0": {
+        "cordova-android": ">=7.1.0"
+      }
+    }
+  }
+}
