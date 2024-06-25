@@ -537,7 +537,7 @@ public class Printer extends CordovaPlugin {
   }
 
   public void printColumnsText(JSONArray colsTextArr, JSONArray colsWidthArr, JSONArray colsAlign,
-      final CallbackContext callbackContext) {
+                               final CallbackContext callbackContext) {
     final IWoyouService printerService = woyouService;
     final String[] clst = new String[colsTextArr.length()];
     for (int i = 0; i < colsTextArr.length(); i++) {
@@ -642,7 +642,7 @@ public class Printer extends CordovaPlugin {
   }
 
   public void printBarCode(String data, int symbology, int width, int height, int textPosition,
-      final CallbackContext callbackContext) {
+                           final CallbackContext callbackContext) {
     final IWoyouService printerService = woyouService;
     final String d = data;
     final int s = symbology;
